@@ -9,11 +9,28 @@
 
 ## Features
 
+- WiFi value sending: Sends a message if you should ventilate. (Only sends when you need to ventilate)
+- Small: Its overall really small and could fit in your pocket
+- Oled Display: A Small Oled display, displaying the Humidity, Temperature and C02.
+- Is able to read C02, Humidity and Temperature  
 
+## C02 Lvls
+
+| C02 ppm | Status |
+|:---|:---|
+| < 800 | Good! |
+| 800 - 1000 | Ventilate soon |
+| 1000 - 1400 | Ventilate |
+| > 1400 | OPEN THE WINDOW! |
 
 ## BOM
 
-
+|  |  |
+|:---|:---|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## Tools
 
