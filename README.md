@@ -27,11 +27,11 @@
 
 ## PCB
 
-<img width="565" height="798" alt="image" src="https://github.com/user-attachments/assets/1390c026-66a5-4650-8853-b8313b396c1a" />
+<img width="535" height="798" alt="image" src="https://github.com/user-attachments/assets/1390c026-66a5-4650-8853-b8313b396c1a" />
 
 <img width="479" height="568" alt="image" src="https://github.com/user-attachments/assets/a0e470ca-fb29-4872-8924-09a1e040f8c5" />
 
-<img width="436" height="504" alt="image" src="https://github.com/user-attachments/assets/32a9b501-9ed3-47b5-bb5f-bf4ebc7840cb" />
+<img width="479" height="568" alt="image" src="https://github.com/user-attachments/assets/32a9b501-9ed3-47b5-bb5f-bf4ebc7840cb" />
 
 ## Case
 
