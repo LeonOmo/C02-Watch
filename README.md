@@ -1,16 +1,17 @@
 # C02 Watch
 
-
-
+A compact air quality monitor which tells me when to open the window, it measures C02 lvls with a SCD40 and shows the status on a oled display 
 
 ## Why does it exist
 
-
+- Compact building: I wanted to build something really small all my other Projects were always so chunky
+- Sensors: Building with more and more sensors and understanding more about them. With all my projects with sensors i now understand some of the electrical componets in my household.
+- 3D Printer: High C02 Lvls can make you unfocused yet you cant see it so i made something where i know when to ventilate.
 
 ## Features
 
 - WiFi value sending: Sends a message if you should ventilate. (Only sends when you need to ventilate)
-- Small: Its overall really small and could fit in your pocket
+- Compactness: Its overall really small and could fit in your pocket
 - Oled Display: A Small Oled display, displaying the Humidity, Temperature and C02.
 - Is able to read C02, Humidity and Temperature  
 
