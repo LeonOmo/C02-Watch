@@ -49,3 +49,6 @@ Credits
 ## Bonus
 
 Idea Scatch
+
+<img width="1152" height="625" alt="Unbenannt" src="https://github.com/user-attachments/assets/8f17b521-efa6-4fb4-a936-b02eab748329" />
+
