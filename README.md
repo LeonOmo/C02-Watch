@@ -53,7 +53,7 @@ A compact air quality monitor which tells me when to open the window, it measure
 
 ## Case
 
-
+<img width="475" height="398" alt="Screenshot 2026-11-20 182015" src="https://github.com/user-attachments/assets/dc524052-d624-4435-b5c0-b56b3e8f6eac" />
 
 ## Firmware
 
