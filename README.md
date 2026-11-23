@@ -4,7 +4,7 @@ A compact air quality monitor which tells me when to open the window, it measure
 
 ## Why does it exist
 
-- Compact building: I wanted to build something really small all my other Projects were always so chunky
+- Compact build: I wanted to build something really small all my other Projects were always so chunky
 - Sensors: Building with more and more sensors and understanding more about them. With all my projects with sensors i now understand some of the electrical componets in my household.
 - 3D Printer: High C02 Lvls can make you unfocused yet you cant see it so i made something where i know when to ventilate.
 
